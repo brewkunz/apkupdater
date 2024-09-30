@@ -147,7 +147,7 @@ val GitHubApps = listOf(
     GitHubApp("pan.alexander.tordnscrypt.stable", "Gedsh", "InviZible"),
     GitHubApp("com.ivy.wallet", "Ivy-Apps", "ivy-wallet"),
     GitHubApp("org.jellyfin.mobile", "jellyfin", "jellyfin-android"),
-    GitHubApp("org.jellyfin.androidtv", "jellyfin", "jellyfin-androidtv"),
+    GitHubApp("com.brewkunz.jellyfin", "brewkunz", "jellyfin-androidtv"),
     GitHubApp("com.jerboa", "dessalines", "jerboa"),
     GitHubApp("com.blockbasti.justanotherworkouttimer", "blockbasti", "just_another_workout_timer"),
     GitHubApp("keepass2android.keepass2android_nonet", "PhilippC", "keepass2android", contains("nonet")),
